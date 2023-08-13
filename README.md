@@ -1,2 +1,3 @@
-# Fintrack - news app
-Financial news app using HTML, CSS, Javascript.
+# Finanews
+<h2> Financial News Website using HTML,CSS,Javascript</h2>
+
