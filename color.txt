@@ -1,0 +1,4 @@
+#f5e8e4 - nav-color
+#6b473b - search
+#e6e4e3 - card
+
