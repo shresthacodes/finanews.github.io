@@ -49,6 +49,7 @@ nav {
   left: 0;
   right: 0;
 
+
 }
 
 .main-navigationbar {
@@ -63,6 +64,7 @@ nav {
 
 .nav-link ul {
   gap: 30px;
+  cursor: pointer;
 }
 
 .hover-link:hover {

@@ -1,7 +1,7 @@
 const API_KEY = "generate your own api key from newsnapi.org";
 const url = "https://newsapi.org/v2/everything?q=";
 
-window.addEventListener("load", () => fetchNews("world"));
+window.addEventListener("load", () => fetchNews("Programming"));
 
 function reload() {
     window.location.reload();
